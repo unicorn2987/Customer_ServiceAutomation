@@ -1,0 +1,2 @@
+This project aims to provide automated sentiment analysis and response to customer feedback on social media platforms.
+It leverages machine learning for sentiment analysis, a Flask web application for the API, and Docker for containerization.
